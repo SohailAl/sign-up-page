@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: #fff;
+    overflow-x: hidden;
+  }
+  .login-side-view{
+    background: rgba(233, 248, 229, 1);
+
+  }
+  img{
+    width: 100%;
+  }
+  .login-form{
+    background: rgba(252, 254, 255, 1);
+
+  }
+  .Leaf img{
+    width: 30px;
+  }
+  .Leaf span {
+    font-size: 30px;
+    margin-left: 4px;
+}
+.Leaf h4 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.input-field input {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 18px 15px 18px 45px;
+    box-sizing: border-box; 
+    border: 2.5px solid rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+.input-field{
+    position: relative;
+}
+.input-field i {
+    position: absolute;
+    top: 61%;
+    transform: translateY(-50%);
+    left: 25px;
+    padding: 18px 0;
+    color: rgba(0, 0, 0, 0.5);
+}
+.login-btn {
+    margin-top: 20px;
+}
+.login-btn button {
+    background: rgba(115, 137, 93, 1);
+    width: 80%;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    color: rgba(252, 254, 255, 1);
+
+}
+.login-btn h5 {
+    color: rgba(176, 186, 195, 1);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.icons a i {
+    margin-left: 22px;
+    font-size: 20px;
+}
+.text-heading p {
+    color: rgba(74, 74, 74, 1);
+}
+.text-heading p b {
+    color: rgba(115, 137, 93, 1) !important;
+}
+.text-heading {
+    margin-top: 10px;
+}
+.login-form {
+    padding: 10px 35px;
+}
